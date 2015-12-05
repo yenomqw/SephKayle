@@ -7,8 +7,8 @@
     <ProjectGuid>{E55EB8D5-5BBB-4AC3-B800-9CD0B840A51F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>KayleHu3</RootNamespace>
-    <AssemblyName>KayleHu3</AssemblyName>
+    <RootNamespace>SephKayle</RootNamespace>
+    <AssemblyName>SephKayle</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
