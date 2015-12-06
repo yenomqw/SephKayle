@@ -275,7 +275,7 @@ namespace KayleHu3
                 foreach (var ally in allies)
                     if (ally.Health < HPWally)
                     {
-                        R.Cast(ally);
+                        W.Cast(ally);
                     }
             }
 
